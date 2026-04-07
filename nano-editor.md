@@ -13,12 +13,11 @@ the + sign
 
 - `nano -`
 
-Allows nano to read data from standard input
-
+Allows nano to read data from standard input.
 
 ## Shortcuts
 
-^K - cut text
-^6 - copy / mark text
-Alt + # - show line numbers (can also be set in nanorc with `set linenumbers`) 
+- `^K` - cut text
+- `^6` - copy / mark text
+- `Alt + #` - show line numbers (can also be set in nanorc with `set linenumbers`) 
 
