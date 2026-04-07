@@ -1,7 +1,5 @@
 # Setup VirtualBox Additions on a (Debian) Linux Guest
 
-## Install required packages first
-
 ```
 # apt -y install gcc make bzip2 linux-headers-$(uname -r)
 
