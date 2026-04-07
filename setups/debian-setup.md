@@ -228,7 +228,10 @@ Reboot.
 
 ## Optional: TLP from Trixie Backports for laptop power management
 
-`sudo apt -t trixie-backports install tlp tlp-pd tlp-rdw`
+```
+sudo apt -t trixie-backports install tlp tlp-pd tlp-rdw
+sudo tlp start
+```
 
 ## Other Software
 
@@ -238,10 +241,11 @@ Reboot.
 
 ### References
 
-https://www.youtube.com/watch?v=_zC4S7TA1GI
-https://medium.com/@inatagan/installing-debian-with-btrfs-snapper-backups-and-grub-btrfs-27212644175f
-https://github.com/Aerodyne-Jazz/Debian-13-BTRFS-Install-Guide/blob/main/BTRFS_Timeshift_Grub-BTRFS.md
-https://mutschler.dev/linux/debian-btrfs-trixie/
-https://wiki.debian.org/%20SSDOptimization%20
-https://wiki.archlinux.org/title/Zram
-https://github.com/Antynea/grub-btrfs
+- https://www.youtube.com/watch?v=_zC4S7TA1GI
+- https://medium.com/@inatagan/installing-debian-with-btrfs-snapper-backups-and-grub-btrfs-27212644175f
+- https://github.com/Aerodyne-Jazz/Debian-13-BTRFS-Install-Guide/blob/main/BTRFS_Timeshift_Grub-BTRFS.md
+- https://mutschler.dev/linux/debian-btrfs-trixie/
+- https://wiki.debian.org/%20SSDOptimization%20
+- https://wiki.archlinux.org/title/Zram
+- https://github.com/Antynea/grub-btrfs
+- https://wiki.debian.org/NvidiaGraphicsDrivers
