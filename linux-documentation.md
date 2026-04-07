@@ -54,20 +54,13 @@ yelp man:ls
 
 ## Other Tools
 
-- [cheat.sh](https://cheat.sh/)
+- [cheat.sh](https://cheat.sh/) - Cheatsheet pages with no download required. Just `curl cht.sh/btrfs`
 
-Cheatsheet pages with no download required. Just `curl cht.sh/btrfs`
+- [tldr](https://github.com/tldr-pages/tldr) - Also available [online](https://tldr.inbrowser.app/)
 
-- [tldr](https://github.com/tldr-pages/tldr) 
-
-Also available [online](https://tldr.inbrowser.app/)
-
-- [https://github.com/filiparag/wikiman](https://github.com/filiparag/wikiman)
-
-oOffline documentation search engine. It browses man pages by default but can be configured to use ArchWiki, Gentoo Wiki, FreeBSD docs and even TLDR Pages.
+- [Wikiman](https://github.com/filiparag/wikiman) - Offline documentation search engine. It browses man pages by default but can be configured to use ArchWiki, Gentoo Wiki, FreeBSD docs and even TLDR Pages.
 
 
----
 
 #### References
 
